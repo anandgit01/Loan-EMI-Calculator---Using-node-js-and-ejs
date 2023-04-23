@@ -17,5 +17,8 @@ If you would like to contribute to the project, feel free to submit a pull reque
 # License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
+# Credits
+This app was built by Anand Mathew :blush: as a learning exercise. It uses the OpenWeatherMap API to fetch weather data.
+
 # Acknowledgments
 This project was inspired by various loan EMI calculators available online.
